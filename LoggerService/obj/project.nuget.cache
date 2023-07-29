@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2wCSVJjkgMHaL6Kxt+iovNpNhZMCua3/Dt3CF2g7668GNiw3qge706ZAMSAPQVzzdcJbCSn/X+bFX4cImu+BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilumini\\.nuget\\packages\\nlog\\5.2.2\\nlog.5.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
