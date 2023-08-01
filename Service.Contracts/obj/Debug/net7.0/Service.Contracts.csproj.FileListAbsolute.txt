@@ -1,0 +1,15 @@
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Entities.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Entities.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll

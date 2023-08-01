@@ -57,3 +57,10 @@ C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\obj\Debug\net7.
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\ref\CompanyEmployees.dll
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Npgsql.dll
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
