@@ -13,3 +13,5 @@ C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7
 C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
 C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
 C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.pdb

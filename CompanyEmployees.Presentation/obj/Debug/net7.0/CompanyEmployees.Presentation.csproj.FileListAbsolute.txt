@@ -15,3 +15,5 @@ C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\ob
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\refint\CompanyEmployees.Presentation.dll
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.pdb
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\ref\CompanyEmployees.Presentation.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Shared.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Shared.pdb

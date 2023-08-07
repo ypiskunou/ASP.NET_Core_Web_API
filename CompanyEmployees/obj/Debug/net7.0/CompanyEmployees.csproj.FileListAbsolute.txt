@@ -64,3 +64,7 @@ C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.pdb
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
 C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.dll
+C:\Users\ilumini\RiderProjects\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.pdb

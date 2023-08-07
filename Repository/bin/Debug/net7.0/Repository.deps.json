@@ -10,7 +10,8 @@
         "dependencies": {
           "Contracts": "1.0.0",
           "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "7.0.9"
+          "Microsoft.EntityFrameworkCore": "7.0.9",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Repository.dll": {}
@@ -139,6 +140,11 @@
         "runtime": {
           "Entities.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
+        }
       }
     }
   },
@@ -231,6 +237,11 @@
       "sha512": ""
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
