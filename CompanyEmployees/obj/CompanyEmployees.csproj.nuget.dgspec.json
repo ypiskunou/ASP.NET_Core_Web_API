@@ -370,6 +370,9 @@
               },
               "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -436,6 +439,9 @@
             "projectReferences": {
               "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -501,6 +507,68 @@
                 "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\ilumini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ilumini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {

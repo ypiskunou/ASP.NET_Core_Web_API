@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "upgbwqoyrVPRi0DXAdF8ajRASg2MlcovT0WerCgw2WHegVuNKMByJS9aomT/U7Xc7g2x6Jtd0WCc+g6yuFBdyw==",
+  "dgSpecHash": "tXr38OHPdsmrp0k4V/GmgUegZJMEnMpAYk8FHKy6a7y5p2W1bg7To2r/PUhempLk1obV03fGjI44S9zPqF1+6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilumini\\RiderProjects\\CompanyEmployees\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ilumini\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilumini\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

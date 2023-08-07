@@ -1,12 +1,13 @@
 using Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Shared.DataTransferObjects;
 
 namespace Repository.Configuration;
 
-public class CompanyConfiguration : IEntityTypeConfiguration<Company> 
+public class CompanyConfiguration : IEntityTypeConfiguration<CompanyDto> 
 { 
-    public void Configure(EntityTypeBuilder<Company> builder) 
+    public void Configure(EntityTypeBuilder<CompanyDto> builder) 
     { 
         builder.HasData 
         ( 
